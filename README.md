@@ -2,6 +2,7 @@
 CS M10B: Programming Assignment 4 - Singly Linked List
 
 Write a singly linked list template class (refer to Chapter 18 - Introduction to Custom Templates and the Linked List power point presentation on Canvas).  You template class should provide the following public member functions:
+	
 	void push_back(const T &element);
 	void push_front(const T &element);
 	bool insert(const T &element, unsigned position);
