@@ -18,6 +18,3 @@ The destructor should destroy the link list and free any memory that it allocate
 
 You must implement your own linked list, you can't use an STL container inside your linked list class.
 Test your template class by creating a linked list of string objects and a linked list of Point objects.  Your test code must dynamically allocate a link list of each type (string and Point) and call every member function for each type.  It should then destroy the linked list.
-
-
-	
